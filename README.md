@@ -6,7 +6,9 @@ Project Title: The Secrets to Video Game Success: Factors that Affect Ratings an
 Team Members
 
 Melanie Follett
+
 Jonathan Wu
+
 William Vo
 
 
