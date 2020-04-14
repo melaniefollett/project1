@@ -1,7 +1,5 @@
 # project1
 
-Project Proposal
-
 Project Title: The Secrets to Video Game Success: Factors that Affect Ratings and Sales
 
 
