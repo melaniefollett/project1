@@ -1,8 +1,11 @@
 # The Secrets to Video Game Success: Factors that Affect Ratings and Sales
 
 Team Members
+
 Melanie Follett
+
 Jonathan Wu
+
 William Vo
 
 
@@ -46,19 +49,29 @@ Video Game Sales 2019: https://www.kaggle.com/ashaheedq/video-games-sales-2019
 # Rough Breakdown of Tasks
 
 Melanie:
+
 Data cleaning (Team)
+
 Questions 1, 4, 7 & 8
+
 Report
+
 Presentation (Team)
 
 
 Jonathan:
+
 Data cleaning (Team)
+
 Questions 5 & 6
+
 Presentation (Team)
 
 
 William:
+
 Data cleaning (Team)
+
 Questions 2 & 3
+
 Presentation (Team)
